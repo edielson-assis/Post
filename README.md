@@ -7,7 +7,7 @@ Post é um exercício que faz parte da lista de exercícios do curso Java COMPLE
 O exercício consiste em instanciar manualmente os objetos solicitados e depois exibi-los na tela.  
 
 ## Modelo conceitual
-![Post_UML](https://user-images.githubusercontent.com/105529988/178116053-0dc35ae8-7cbc-4d71-b0c9-0f90da3f2c8b.png)
+![Post_UML](https://user-images.githubusercontent.com/105529988/178134700-afd5646b-fba8-4fd3-a3bd-ffce06d09968.png)
 
 ## Layout
 ![Post_result](https://user-images.githubusercontent.com/105529988/178127557-6cfa7d99-6c91-4f0a-973a-edfdd7671e01.png)
